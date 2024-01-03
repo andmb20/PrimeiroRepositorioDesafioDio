@@ -1,0 +1,5 @@
+Git - Sistema de controle de versão distribuido. Gratuito de código aberto. Leve e rápido.
+GitHub - Sistema de controle de versão usando o Git. Plataforma de hospedagem de código.
+Git Bash - Terminal estendido para otimizar o uso do Git.
+
+Site download do Git https://git-scm.com/downloads
